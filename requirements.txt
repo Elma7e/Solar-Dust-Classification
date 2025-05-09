@@ -2,3 +2,4 @@ ultralytics
 streamlit
 pillow
 requests
+opencv-python-headless
