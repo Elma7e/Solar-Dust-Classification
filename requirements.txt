@@ -1,6 +1,6 @@
-ultralytics==8.0.20
+ultralytics
 streamlit
 pillow
 requests
 opencv-python-headless
-torch==2.0.1
+torch
