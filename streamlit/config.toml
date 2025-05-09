@@ -1,5 +1,10 @@
+# Streamlit Configuration
 [server]
-runOnSave = false
+runOnSave = false  # Disable auto-reloading of the app on file changes
 
 [watcher]
-type = "none"
+type = "none"  # Disable the file watcher completely
+
+# NOTE:
+# For production, consider enabling file watchers or adjusting settings
+# to align with your deployment environment.
